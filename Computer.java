@@ -1,5 +1,8 @@
 import java.util.Random;
 
+//Git test
+//ASDOAKJWEKDHAWGHDAJWY
+
 public class Computer {
   int MAXROW = 10;
   int MAXCOL = 10;
